@@ -68,8 +68,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Navinkannan46/Navinkannan46/output/snake.svg" alt="Snake animation" />
-
-###
